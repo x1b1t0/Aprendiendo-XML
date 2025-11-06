@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<musicCollection>
+    <playlist name="Rap &amp; Trap Español" created="2025-11-06">
+        <track number="1">
+            <title>Barrio y Rimas</title>
+            <author>El Maestro</author>
+            <duration>03:50</duration>
+        </track>
+        <track number="2">
+            <title>Noche de Versos</title>
+            <author>La Furia</author>
+            <duration>04:12</duration>
+        </track>
+        <track number="3">
+            <title>Trae ese ron</title>
+            <author>Kase.O</author>
+            <duration>04:20</duration>
+        </track>
+    </playlist>
+
+    <playlist name="Clásico Rap Español" created="2023-07-14">
+        <track number="1">
+            <title>Verso Antiguo</title>
+            <author>Los Versátiles</author>
+            <duration>04:00</duration>
+        </track>
+        <track number="2">
+            <title>Rimas de Calle</title>
+            <author>Cadena Larga</author>
+            <duration>03:35</duration>
+        </track>
+        <track number="3">
+            <title>Hi tech</title>
+            <author>Hoke</author>
+            <duration>03:55</duration>
+        </track>
+        <track number="4">
+            <title>Libertad</title>
+            <author>Haze</author>
+            <duration>04:05</duration>
+        </track>
+    </playlist>
+</musicCollection>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<languages>
+    <language typing="dinàmic" platform="Windows, MacOS, Linux">
+        <name>Python</name>
+        <year>1991</year>
+        <creator>Guido van Rossum</creator>
+        <paradigm>Multiparadigma (orientat a objectes, imperatiu, funcional)</paradigm>
+        <features>
+            <feature>Sintaxi clara i llegible</feature>
+            <feature>Tipatge dinàmic</feature>
+            <feature>Gran ecosistema de paquets</feature>
+            <feature>Interpretat i portable</feature>
+        </features>
+    </language>
+
+    <language typing="estàtic" platform="Windows, MacOS, Linux">
+        <name>Java</name>
+        <year>1995</year>
+        <creator>James Gosling</creator>
+        <paradigm>Orientat a objectes (class-based)</paradigm>
+        <features>
+            <feature>Executa sobre la JVM (portabilitat "write once, run anywhere")</feature>
+            <feature>Tipatge estàtic</feature>
+            <feature>Gestió automàtica de memòria (garbage collection)</feature>
+            <feature>Fort enfocament en robustesa i seguretat</feature>
+        </features>
+    </language>
+
+    <language typing="estàtic" platform="Windows, MacOS, Linux">
+        <name>Rust</name>
+        <year>2010</year>
+        <creator>Graydon Hoare (i la comunitat / Mozilla)</creator>
+        <paradigm>Multiparadigma (sistemes, funcional, imperatiu)</paradigm>
+        <features>
+            <feature>Seguretat de memòria sense garbage collector (ownership)</feature>
+            <feature>Concurrència segura</feature>
+            <feature>Alt rendiment comparable al C/C++</feature>
+            <feature>Tipatge estàtic i sistema de tipus potent</feature>
+        </features>
+    </language>
+</languages>

@@ -1,1 +1,26 @@
 <?xml version ="1.0" encoding = "UTF-8"?>
+<books>
+    <book isbn="978-0140449136" available="true">
+        <title>Les Metamorfosis</title>
+        <author>Ovidi</author>
+        <year>8</year>
+        <genre>Poesia clàssica</genre>
+        <description>Col·lecció d'elegies i poemes èpics sobre transformacions mitològiques.</description>
+    </book>
+
+    <book isbn="978-0261103573" available="false">
+        <title>El Hobbit</title>
+        <author>J. R. R. Tolkien</author>
+        <year>1937</year>
+        <genre>Fantasia</genre>
+        <description>Aventura d'un hobbit que emprèn un viatge per recuperar un tresor custodiat per un drac.</description>
+    </book>
+
+    <book isbn="978-0596009205" available="true">
+        <title>Introducció a la programació</title>
+        <author>Anna Martí</author>
+        <year>2021</year>
+        <genre>Educació/Tecnologia</genre>
+        <description>Manual pràctic per a aprendre els conceptes bàsics de la programació amb exemples i exercicis.</description>
+    </book>
+</books>

@@ -1,1 +1,24 @@
 <?xml version ="1.0" encoding = "UTF-8"?>
+<employees>
+    <employee salary="45000">
+        <name>Anna Puig</name>
+        <id>1001</id>
+        <gender>femení</gender>
+        <age>29</age>
+        <hiringDate>2021-06-15</hiringDate>
+    </employee>
+    <employee salary="38000">
+        <name>Jordi Martínez</name>
+        <id>1002</id>
+        <gender>masculí</gender>
+        <age>35</age>
+        <hiringDate>2019-03-01</hiringDate>
+    </employee>
+    <employee salary="52000">
+        <name>María López</name>
+        <id>1003</id>
+        <gender>femení</gender>
+        <age>42</age>
+        <hiringDate>2010-11-20</hiringDate>
+    </employee>
+</employees>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gamestore>
+    <games>
+        <game>
+            <code>G001</code>
+            <name>Baldur's Gate 3</name>
+            <version>1.0</version>
+            <company>Larian Studios</company>
+            <releaseYear>2023</releaseYear>
+            <copies>
+                <copy>
+                    <copyId>1001</copyId>
+                </copy>
+                <copy>
+                    <copyId>1002</copyId>
+                </copy>
+                <copy>
+                    <copyId>1003</copyId>
+                </copy>
+            </copies>
+        </game>
+        <game>
+            <code>G002</code>
+            <name>Starfield</name>
+            <version>1.0</version>
+            <company>Bethesda</company>
+            <releaseYear>2023</releaseYear>
+            <copies>
+                <copy>
+                    <copyId>2001</copyId>
+                </copy>
+                <copy>
+                    <copyId>2002</copyId>
+                </copy>
+                <copy>
+                    <copyId>2003</copyId>
+                </copy>
+            </copies>
+        </game>
+    </games>
+
+    <members>
+        <member>
+            <dni>12345678A</dni>
+            <name>Joan Garcia</name>
+            <phone>666555444</phone>
+        </member>
+    </members>
+
+    <loans>
+        <loan>
+            <copyId>1001</copyId>
+            <memberDni>12345678A</memberDni>
+            <loanDate>2023-10-15</loanDate>
+            <returnDate>2023-10-22</returnDate>
+        </loan>
+    </loans>
+</gamestore>

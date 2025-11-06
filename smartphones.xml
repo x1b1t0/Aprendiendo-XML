@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smartphones>
+    <smartphone id="1">
+        <nom>Samsung Galaxy S24</nom>
+        <sistema_operatiu>
+            <nom>Android</nom>
+            <versio>14</versio>
+        </sistema_operatiu>
+        <dimensions>
+            <amplada unit="mm">71.9</amplada>
+            <alcada unit="mm">146.0</alcada>
+            <fons unit="mm">7.6</fons>
+        </dimensions>
+        <pes unit="g">168</pes>
+        <resolucio_pantalla>
+            <amplada_px>2340</amplada_px>
+            <alcada_px>1080</alcada_px>
+        </resolucio_pantalla>
+        <processador>
+            <model>Qualcomm Snapdragon 8 Gen 3</model>
+            <freq unit="GHz">3.2</freq>
+        </processador>
+        <memoria>
+            <ram unit="GB">8</ram>
+            <emmagatzematge unit="GB">256</emmagatzematge>
+        </memoria>
+        <preu currency="EUR">899.00</preu>
+    </smartphone>
+
+    <smartphone id="2">
+        <nom>Apple iPhone 15 Pro</nom>
+        <sistema_operatiu>
+            <nom>iOS</nom>
+            <versio>17</versio>
+        </sistema_operatiu>
+        <dimensions>
+            <amplada unit="mm">71.5</amplada>
+            <alcada unit="mm">146.6</alcada>
+            <fons unit="mm">7.8</fons>
+        </dimensions>
+        <pes unit="g">187</pes>
+        <resolucio_pantalla>
+            <amplada_px>2556</amplada_px>
+            <alcada_px>1179</alcada_px>
+        </resolucio_pantalla>
+        <processador>
+            <model>Apple A17 Pro</model>
+            <freq unit="GHz">3.5</freq>
+        </processador>
+        <memoria>
+            <ram unit="GB">8</ram>
+            <emmagatzematge unit="GB">256</emmagatzematge>
+        </memoria>
+        <preu currency="EUR">1229.00</preu>
+    </smartphone>
+
+    <smartphone id="3">
+        <nom>Google Pixel 8 Pro</nom>
+        <sistema_operatiu>
+            <nom>Android</nom>
+            <versio>14</versio>
+        </sistema_operatiu>
+        <dimensions>
+            <amplada unit="mm">75.8</amplada>
+            <alcada unit="mm">162.6</alcada>
+            <fons unit="mm">8.9</fons>
+        </dimensions>
+        <pes unit="g">213</pes>
+        <resolucio_pantalla>
+            <amplada_px>3120</amplada_px>
+            <alcada_px>1440</alcada_px>
+        </resolucio_pantalla>
+        <processador>
+            <model>Google Tensor G3</model>
+            <freq unit="GHz">3.3</freq>
+        </processador>
+        <memoria>
+            <ram unit="GB">12</ram>
+            <emmagatzematge unit="GB">256</emmagatzematge>
+        </memoria>
+        <preu currency="EUR">999.00</preu>
+    </smartphone>
+</smartphones>

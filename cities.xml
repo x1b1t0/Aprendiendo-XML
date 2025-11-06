@@ -1,21 +1,42 @@
-<?xml version ="1.0" encoding = "UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <cities>
     <city>
         <name>Barcelona</name>
         <country>Spain</country>
         <population>1620343</population>
+        <timeZone>UTC+1</timeZone>
+        <attractions>
+            <attraction>Sagrada Família</attraction>
+            <attraction>Park Güell</attraction>
+            <attraction>Casa Batlló</attraction>
+            <attraction>La Rambla</attraction>
+        </attractions>
         <description>Barcelona is known for its art and architecture, including the famous Sagrada Família church designed by Antoni Gaudí.</description>
     </city>
     <city>
         <name>Tokyo</name>
         <country>Japan</country>
         <population>13929286</population>
+        <timeZone>UTC+9</timeZone>
+        <attractions>
+            <attraction>Senso-ji Temple</attraction>
+            <attraction>Tokyo Skytree</attraction>
+            <attraction>Shibuya Crossing</attraction>
+            <attraction>Imperial Palace</attraction>
+        </attractions>
         <description>Tokyo is a bustling metropolis that blends the ultramodern and the traditional, from neon-lit skyscrapers to historic temples.</description>
     </city>
     <city>
         <name>Cape Town</name>
         <country>South Africa</country>
         <population>433688</population>
+        <timeZone>UTC+2</timeZone>
+        <attractions>
+            <attraction>Table Mountain</attraction>
+            <attraction>Robben Island</attraction>
+            <attraction>V&amp;A Waterfront</attraction>
+            <attraction>Boulders Beach</attraction>
+        </attractions>
         <description>Cape Town is renowned for its stunning landscapes, including Table Mountain and beautiful beaches.</description>
     </city>
 </cities>
