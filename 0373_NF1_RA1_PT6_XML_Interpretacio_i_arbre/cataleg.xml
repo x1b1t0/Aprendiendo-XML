@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cataleg>
+    <producte>
+        <nom>Teclat Mecànic RGB</nom>
+        <codi>TEC-001</codi>
+        <descripcio>Teclat mecànic amb retroil·luminació RGB i 104 tecles</descripcio>
+        <precCompra>45.50</precCompra>
+        <precVendaRecomanat>79.99</precVendaRecomanat>
+    </producte>
+
+    <producte>
+        <nom>Ratolí Sense Fil</nom>
+        <codi>RAT-002</codi>
+        <descripcio>Ratolí ergonòmic sense fil amb bateria de llarga durada</descripcio>
+        <precCompra>12.00</precCompra>
+        <precVendaRecomanat>24.99</precVendaRecomanat>
+        <oferta>
+            <nomOferta>Black Friday 2024</nomOferta>
+            <codiOferta>OFF-BF-001</codiOferta>
+            <percentatgeDescompte>25</percentatgeDescompte>
+        </oferta>
+    </producte>
+
+    <producte>
+        <nom>Monitor LED 27"</nom>
+        <codi>MON-003</codi>
+        <descripcio>Monitor Full HD 27 polzades amb panell IPS i temps de resposta de 5ms</descripcio>
+        <precCompra>120.00</precCompra>
+        <precVendaRecomanat>199.99</precVendaRecomanat>
+    </producte>
+</cataleg>
